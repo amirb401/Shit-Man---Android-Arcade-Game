@@ -15,7 +15,13 @@ What started as a fun little project, became something big and unique which I ha
 
 I created the whole project myself, from art, to design and testing, deploying to Google Playstore and anything else in between.
 
-*Some of the art (Mainly music and a bit of the skins) is under "CC0 - Creative Commons" free to use for non-commercial copyrights.
+
+## Notes
+
+- Some of the art (Mainly music and a bit of the skins) is under "CC0 - Creative Commons" free to use for non-commercial copyrights.
+- A download link for the .apk file is available at the bottom of the page.
+- This repository is merely used to display the coding work I have done on this project and nothing else. all other assets and configuration is not presented here.
+- Game was made using Unity engine and code is in C#. **All self taught**.
 
 ## Game Features & Road plan
 1. 2D arcade like Character movement
